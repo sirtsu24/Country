@@ -1,0 +1,13 @@
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\bin\Debug\netcoreapp3.0\RestcountriesAPI.exe
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\obj\Debug\netcoreapp3.0\RestcountriesAPI.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\obj\Debug\netcoreapp3.0\RestcountriesAPI.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\obj\Debug\netcoreapp3.0\RestcountriesAPI.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\bin\Debug\netcoreapp3.0\RestcountriesAPI.deps.json
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\bin\Debug\netcoreapp3.0\RestcountriesAPI.runtimeconfig.json
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\bin\Debug\netcoreapp3.0\RestcountriesAPI.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\bin\Debug\netcoreapp3.0\RestcountriesAPI.dll
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\bin\Debug\netcoreapp3.0\RestcountriesAPI.pdb
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\obj\Debug\netcoreapp3.0\RestcountriesAPI.csproj.CopyComplete
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\obj\Debug\netcoreapp3.0\RestcountriesAPI.dll
+C:\Users\Sirje\Desktop\RestcountriesAPI\RestcountriesAPI\obj\Debug\netcoreapp3.0\RestcountriesAPI.pdb
